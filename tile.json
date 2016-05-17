@@ -1,11 +1,11 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Deploy to Bluemix",
-		"link": "http://ibm.com",
-		"altText" : "Try out the Shopping Service"
+		"text" : "View Catalog",
+		"link": "https://swiftpkgs.ng.bluemix.net/",
+		"altText" : "Get a list of all the Swift packages"
 	},
 	"video" : "https://youtu.be/1JRjzNm4cUc",
-	"image" : "https://raw.githubusercontent.com/mven/CodeEval/one/assets/shopping.jpg",
-	"time" : "5 min"
+	"image" : "https://raw.githubusercontent.com/mven/CodeEval/three/assets/swift.png",
+	"time" : "15 min"
 }
