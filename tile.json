@@ -3,7 +3,7 @@
 		"type": "url",
 		"text" : "Browse new tools",
 		"link": "http://bluemix.net/catalog",
-		"altText" : "Take some time to learn the new tools"
+		"description" : "Take some time to learn the new tools"
 	},
 	"video" : "https://youtu.be/1JRjzNm4cUc",
 	"image" : "https://raw.githubusercontent.com/mven/CodeEval/two/assets/apple-ibm.jpg",
