@@ -2,7 +2,7 @@
 	"action" : {
 		"type": "url",
 		"text" : "Create Project",
-		"link": "http://bluemix.net",
+		"link": "https://dev-console.stage1.ng.bluemix.net/mobile/capabilities/",
 		"description" : "Create your first Project"
 	},
 	"image" : "https://raw.githubusercontent.com/mven/CodeEval/c2b39377e1f96a17e5493de4cbf375d6072fdd66/teal.png",
